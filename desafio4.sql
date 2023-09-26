@@ -1,0 +1,9 @@
+
+
+SELECT
+	NOME,
+	ANO,
+	DURACAO
+FROM
+	Filmes
+WHERE ANO = 1997

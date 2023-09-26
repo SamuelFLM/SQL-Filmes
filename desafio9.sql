@@ -1,0 +1,10 @@
+
+
+SELECT
+	PRIMEIRONOME,
+	ULTIMONOME
+FROM 
+	Atores
+WHERE
+	GENERO = 'F'
+ORDER BY PrimeiroNome
